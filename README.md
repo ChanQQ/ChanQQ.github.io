@@ -1,37 +1,21 @@
 ## Welcome to My first Page^_^
 
-You can use the [editor on GitHub](https://github.com/ChanQQ/ChanQQ.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+To view my blogs,please click [my blog](http://scutcqq.blog.163.com/) ,[my github](https://chanqq.github.io/) will be construct soon.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 陈祈祈Chan Qiqi
 
-### Markdown
+##意向职位Position
+前端开发工程师
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##邮箱Email
+852926003@qq.com
 
-```markdown
-Syntax highlighted code block
+##教育背景Education
+硕士：2015.09-至今　  华南理工大学 计算机科学与技术
+本科：2009.09-2013.06 华南理工大学 网络工程
 
-# Header 1
-## Header 2
-### Header 3
+##送上我拍的一张图
+![Image]("./images/light.jpg")
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChanQQ/ChanQQ.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###编辑于2017.03.20
