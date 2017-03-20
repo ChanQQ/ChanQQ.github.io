@@ -14,13 +14,17 @@ To view my blogs,please click [my blog](http://scutcqq.blog.163.com/) ,[my githu
 
 ## 教育背景Education
 
-硕士：2015.09-至今　华南理工大学　计算机科学与技术
+### 硕士：
 
-本科：2009.09-2013.06　华南理工大学　网络工程
+　　2015.09-至今　华南理工大学　计算机科学与技术
+
+### 本科：
+
+　　2009.09-2013.06　华南理工大学　网络工程
 
 ## 我的照片Photo
 
-![Image](".\images\light.jpg")
+![Image](.\images\light.jpg =100x100)
 
 Ha, it's just a joke!
 
