@@ -1,8 +1,10 @@
 ## Welcome to My first Page^_^
 
-To view my blogs,please click [my blog](http://scutcqq.blog.163.com/) ,[my github](https://chanqq.github.io/) will be construct soon.
+To know more about me,please click my blog [网易博客](http://scutcqq.blog.163.com/).
 
-# Chan Qiqi陈祈祈
+[my github](https://chanqq.github.io/) will be construct soon.
+
+# 陈祈祈Chan Qiqi
 
 ## 意向职位Position
 
@@ -24,8 +26,8 @@ To view my blogs,please click [my blog](http://scutcqq.blog.163.com/) ,[my githu
 
 ## 我的照片Photo
 
-![Image](.\images\light.jpg)
+![Image](./images/light.JPG)
 
-Ha, it's just a joke!
+Ha, it's just a joke^_^
 
 ### 编辑于2017.03.20
