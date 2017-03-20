@@ -20,7 +20,7 @@ To view my blogs,please click [my blog](http://scutcqq.blog.163.com/) ,[my githu
 
 ## 我的照片Photo
 
-![Image]("/images/light.jpg")
+![Image](".\images\light.jpg")
 
 Ha, it's just a joke!
 
