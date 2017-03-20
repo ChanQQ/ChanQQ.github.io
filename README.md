@@ -26,7 +26,7 @@ To know more about me,please click my blog [网易博客](http://scutcqq.blog.16
 
 ## 我的照片Photo
 
-![Image](./images/light.JPG)
+![Image](./images/light.JPG =100x100)
 
 Ha, it's just a joke^_^
 
