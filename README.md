@@ -1,8 +1,8 @@
 ## Welcome to My first Page^_^
 
-To know more about me,please click my blog [网易博客](http://scutcqq.blog.163.com/).
+Study notes are updatin on my blog [网易博客](http://scutcqq.blog.163.com/).
 
-[my github](https://github.com/ChanQQ) is updating.
+[my github](https://github.com/ChanQQ) keeps updating.
 
 # 陈祈祈Chan Qiqi
 
