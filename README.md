@@ -2,7 +2,7 @@
 
 To know more about me,please click my blog [网易博客](http://scutcqq.blog.163.com/).
 
-[my github](https://github.com/ChanQQ) will be construct soon.
+[my github](https://github.com/ChanQQ) is updating.
 
 # 陈祈祈Chan Qiqi
 
