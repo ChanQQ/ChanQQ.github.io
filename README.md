@@ -2,32 +2,32 @@
 
 Study notes are updatin on my blog [网易博客](http://scutcqq.blog.163.com/).
 
-[my github](https://github.com/ChanQQ) keeps updating.
+[my github](https://github.com/ChenQQ) keeps updating.
 
-# 陈祈祈Chan Qiqi
+# Chen Qiqi
 
-## 意向职位Position
+## Current Position
+PhD Candidate
 
-前端开发工程师
 
-## 邮箱Email
+## Email
 
-852926003@qq.com
+qqchen@connect.hku.hk
 
-## 教育背景Education
+## Education
 
-### 硕士：
+### Master
 
-　　 2015.09-至今　华南理工大学　计算机科学与技术
+　　 2015.09-2018.06　Computer Science and Technology South China University of Technology
 
-### 本科：
+### Bachelor
 
-　　 2009.09-2013.06　华南理工大学　网络工程
+　　 2009.09-2013.06　Network Engineering Soutch China University of Technology
 
-## 我的照片Photo
+## Photo
 
 ![Image](./images/light.JPG)
 
 Ha, it's just a joke^_^
 
-### 编辑于2017.03.20
+### Edit on 2020.12.22
