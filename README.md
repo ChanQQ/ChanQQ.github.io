@@ -7,7 +7,9 @@ Study notes are updatin on my blog [网易博客](http://scutcqq.blog.163.com/).
 # Chen Qiqi
 
 ## Current Position
+2018.08-Now
 PhD Candidate
+The University of Hong Kong
 
 
 ## Email
